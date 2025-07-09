@@ -1,0 +1,82 @@
+{
+  "presentation_id": "1Idw8s_ghSnNVSDDCBiMiRQ-vJrekNWP-VSgwMnRngqk",
+  "created": "2025-07-08T10:09:04.040050",
+  "theme": {
+    "primary_color": {
+      "red": 0.1,
+      "green": 0.3,
+      "blue": 0.6
+    },
+    "secondary_color": {
+      "red": 0.3,
+      "green": 0.3,
+      "blue": 0.3
+    },
+    "accent_color": {
+      "red": 0.9,
+      "green": 0.5,
+      "blue": 0.1
+    },
+    "background_color": {
+      "red": 1.0,
+      "green": 1.0,
+      "blue": 1.0
+    },
+    "title_font_size": 48,
+    "heading_font_size": 32,
+    "body_font_size": 18,
+    "font_family": "Arial"
+  },
+  "slides": [
+    {
+      "id": "SLIDES_API852240654_0",
+      "type": "title",
+      "title": "Tech Innovations Inc."
+    },
+    {
+      "id": "SLIDES_API1181435684_0",
+      "type": "agenda",
+      "items": [
+        "Company Overview",
+        "Financial Performance",
+        "Product Updates",
+        "Market Analysis",
+        "Future Roadmap"
+      ]
+    },
+    {
+      "id": "SLIDES_API245230089_0",
+      "type": "section",
+      "title": "Company Overview"
+    },
+    {
+      "id": "SLIDES_API89674095_0",
+      "type": "content",
+      "title": "Our Mission"
+    },
+    {
+      "id": "SLIDES_API2133960458_0",
+      "type": "section",
+      "title": "Financial Performance"
+    },
+    {
+      "id": "SLIDES_API1684923090_0",
+      "type": "data",
+      "title": "Quarterly Revenue"
+    },
+    {
+      "id": "SLIDES_API200800547_0",
+      "type": "comparison",
+      "title": "2023 vs 2024 Performance"
+    },
+    {
+      "id": "SLIDES_API449164786_0",
+      "type": "conclusion",
+      "title": "Key Takeaways"
+    },
+    {
+      "id": "SLIDES_API72913557_0",
+      "type": "thank_you"
+    }
+  ]
+}

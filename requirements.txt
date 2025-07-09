@@ -1,0 +1,10 @@
+google-api-python-client==2.127.0
+google-auth==2.30.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+python-dotenv==1.0.1
+openai==1.35.0
+pptx==0.6.21
+reportlab==4.0.4
+flask==3.0.0
+flask-cors==4.0.0
